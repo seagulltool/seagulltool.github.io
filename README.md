@@ -1,37 +1,38 @@
-# 欢迎来到海鸥VPN  [[English]](https://seagulltool.github.io) [[中文]](https://seagulltool.github.io/index-zh.html)
+# Welcome to Seagull VPN  [[English]](https://seagulltool.github.io) [[中文]](https://seagulltool.github.io/index-zh.html)
 
-海鸥VPN是一款完全免费的安卓VPN，你可以从[Google Play](https://play.google.com/store/apps/details?id=tool.seagull.v)免费下载安装并且使用完全免费。
+Seagull VPN is an absolutely free Android app, which you can download from [Google Play](https://play.google.com/store/apps/details?id=tool.seagull.v) and use it for free forever.
 
-海鸥VPN极度重视保护用户隐私，除VPN网络权限外，不需要任何其他权限就可以正常提供服务。
+Your privacy is top priority. Seagull VPN can work without any permission but VPN network.
 
-## 常见问题
+## FAQ
 
-### 1. 如何使用
+### 1. How to use
 
-下载安装后只需要点击主页上方的圆形开关按钮即可开始使用VPN保护你的网络连接和你的隐私。
+You can start VPN connection by clicking the rounded button on the home above.
 
-### 2. 连接模式
+### 2. Connect mode
 
-1）标准模式：可以立刻使用，连接后不限时间，只要服务器还在，你就可以一直使用。但是连接速度较慢，只适合浏览新闻，或者后台长时间下载、同步数据等场景，不合适游戏、视频直播等；
+1）Norm：You can use this mode at once and no timeout. Your connection will be ok as long as the server is healthy. But the network speed is also standard, or maybe a little slow. It's not suitable for watching video or live stream;
 
-2）快速模式：可以立刻使用，速度较快并且可以看YouTube视频，但是单次限时2小时，2小时后会自动断开连接，但是你可以无限次再次连接；
+2）Fast：You can use this mode at once and the network should be fast enough to watch video. But there is a 2 hours timeout limit. Your connection will be interrupted after 2 hours, but you can re-connect again and there is no limit how many times you want to connect;
 
-3）极速模式：连接速度非常快，选择合适的服务器的情况下网络速度也很快。此模式下需要你提前赚取金币，然后使用金币兑换流量，且使用时消耗你的流量。
+3）Super：Your connection is Super fast. But you should earn coins first and then exchange transfer with your coins. Your transfer will be consumed while connecting to network with this mode.
 
-### 3. 赚金币
+### 3. Earn coins
 
-你可以通过主动签到、看图片/媒体广告、或者视频广告赚取金币，每次赚取的金币数量并不确定，且可能根据情况随时调整。由于广告服务器由谷歌子公司控制，因此可能在某些地区和网络下无法获取广告。能否观看到广告海鸥基本很难控制，你可能需要根据你的个人设备、网络以及国家地区不同情况进行调整才能观看到广告。
+You can earn coins by watching ads which provided by Google. For example, you can check-in/play slot games or watch Ads Video to earn coins freely. The ads is provided by Google, which is out of our control. You might need to connect to different global server in some regions to see the ads.
 
-### 4. 寄存金币
-
-在某些时候，例如需要删除重装、APP版本降级等情况下删除APP，为了保护你已经获取的金币，你可以先将APP的金币暂存到手机存储存储上。暂存金币后APP无法读取金币数据，APP中会显示金币为0流量为0。降级APP或者清空APP数据后，点“恢复”即可将之前寄存的金币恢复回来。
-
-金币寄存的有效期为6个小时，寄存后6个小时未恢复则金币失效，无法恢复。
-
-注：使用此功能时需要额外提供手机存储权限。不使用此功能时不需要存储权限。
+### 4. Deposit Coin
 
 
-## 下载
+In some cases, for example, when you need to delete the APP for reinstallation or downgrade of the APP version, in order to protect the  coins you have obtained, you can temporarily store the APP's coins on the phone storage. After temporarily storing gold coins, the APP cannot read the gold coin data. The APP will show that the gold coins are 0 and the traffic is 0. After downgrading the APP or clearing the APP data, click "Recover" to restore the previously deposited gold coins.
 
-1. [Google Play](https://play.google.com/store/apps/details?id=tool.seagull.v)(推荐)
-2. [备用APK](https://github.com/seagulltool/seagulltool.github.io/releases/download/v2.0/seagull-release-2.0.apk)
+The validity period of coin deposit is 6 hours. If the coin is not restored within 6 hours after deposit, the coins will be invalid and cannot be recovered.
+
+Note: When using this function, you need to provide additional mobile phone storage permissions. No storage permissions are required when not using this feature.
+
+
+## Download
+
+1. [Google Play](https://play.google.com/store/apps/details?id=tool.seagull.v)(Preferred)
+2. [BackupAPK](https://github.com/seagulltool/seagulltool.github.io/releases/download/v2.0/seagull-release-2.0.apk)
