@@ -1,4 +1,5 @@
-# 欢迎来到海鸥VPN  [[English]](https://seagulltool.github.io) [[中文]](https://seagulltool.github.io/index-zh.html)
+# 欢迎来到海鸥VPN  
+[[English]](https://seagulltool.github.io) [[中文]](https://seagulltool.github.io/index-zh.html)
 
 海鸥VPN是一款完全免费的安卓VPN，你可以从[Google Play](https://play.google.com/store/apps/details?id=tool.seagull.v)免费下载安装并且使用完全免费。
 
