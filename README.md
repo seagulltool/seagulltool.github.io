@@ -1,4 +1,5 @@
-# Welcome to Seagull VPN  [[English]](https://seagulltool.github.io) [[中文]](https://seagulltool.github.io/index-zh.html)
+# Welcome to Seagull VPN 
+[[English]](https://seagulltool.github.io) [[中文]](https://seagulltool.github.io/index-zh.html)
 
 Seagull VPN is an absolutely free Android app, which you can download from [Google Play](https://play.google.com/store/apps/details?id=tool.seagull.v) and use it for free forever.
 
