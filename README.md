@@ -36,4 +36,4 @@ Note: When using this function, you need to provide additional mobile phone stor
 ## Download
 
 1. [Google Play](https://play.google.com/store/apps/details?id=tool.seagull.v)(Preferred)
-2. [BackupAPK](https://github.com/seagulltool/seagulltool.github.io/releases/download/v2.0/seagull-release-2.0.apk)
+2. [BackupAPK](https://github.com/seagulltool/seagulltool.github.io/releases/download/v3.0/seagull-release-3.0.apk)
