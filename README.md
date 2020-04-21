@@ -33,7 +33,5 @@ The validity period of coin deposit is 6 hours. If the coin is not restored with
 Note: When using this function, you need to provide additional mobile phone storage permissions. No storage permissions are required when not using this feature.
 
 
-## Download
+## [Download](https://seagulltool.github.io/download.html)
 
-1. [Google Play](https://play.google.com/store/apps/details?id=tool.seagull.v)(Preferred)
-2. [BackupAPK](https://github.com/seagulltool/seagulltool.github.io/releases/download/v3.0/seagull-release-3.0.apk)
