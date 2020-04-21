@@ -32,7 +32,4 @@
 注：使用此功能时需要额外提供手机存储权限。不使用此功能时不需要存储权限。
 
 
-## 下载
-
-1. [Google Play](https://play.google.com/store/apps/details?id=tool.seagull.v)(推荐)
-2. [备用APK](https://github.com/seagulltool/seagulltool.github.io/releases/download/v3.0/seagull-release-3.0.apk)
+## [下载](https://seagulltool.github.io/download.html)
