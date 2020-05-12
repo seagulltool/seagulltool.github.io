@@ -4,4 +4,5 @@
 2. APK (If you don't have Google Play)
 
       [v3.2](https://github.com/seagulltool/seagulltool.github.io/releases/download/v3.2/seagull-release-v3.2.apk)
+      
       [v3.0](https://github.com/seagulltool/seagulltool.github.io/releases/download/v3.0/seagull-release-3.0.apk)
