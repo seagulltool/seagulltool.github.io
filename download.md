@@ -5,6 +5,6 @@
 
       [v3.6](https://github.com/seagulltool/seagulltool.github.io/releases/download/v3.6/seagull-release-v3.6.apk)
 
-      [v3.2](https://github.com/seagulltool/seagulltool.github.io/releases/download/v3.2/seagull-release-v3.2.apk)
+      [v3.7](https://github.com/seagulltool/seagulltool.github.io/releases/download/v3.7/seagull-release-v3.7.apk)
       
       
