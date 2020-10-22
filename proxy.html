@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>NodeProxy</title>
+      <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+  </head>
+<script type="text/javascript">
+    function getNodeInfo()
+    {
+        var idx = location.search.indexOf("?");
+        var params = location.search.substr(idx);
+        var proxy = "https://freeapiproxy.azurewebsites.net/api/main" + params;
+        var xmlHttp = new XMLHttpRequest();
+        xmlHttp.open( "GET", proxy, false ); // false for synchronous request
+        xmlHttp.send( null );
+
+        document.getElementById("root").innerText = xmlHttp.responseText;
+    }
+</script>
+<body onload='getNodeInfo()'>
+    <div id="root">
+    </div>
+</body>
+
+</html>
