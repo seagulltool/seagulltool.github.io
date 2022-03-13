@@ -3,4 +3,4 @@ Seagull VPN does NOT collect any of the personal data, such as your location/nam
 
 If you provide any feedback through the inside feedback button and if there is any stack exception of the seagull app,
 the application stack exception will be send along with your feedback info.
-This is the only information we collect and it is only used to help diagnostsic the app runtime exception to improve user experience and will be deleted in 24 hours.
+This is the only information we collect and it is only used to help diagnose the app runtime exception to improve user experience and will be deleted in 24 hours.
